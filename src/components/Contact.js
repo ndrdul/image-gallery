@@ -1,8 +1,11 @@
 import React from 'react'
+import Carousel from './Carousel'
 
 const Contact = () => {
   return (
-    <div>Contact</div>
+    <div>
+      <div><Carousel /></div>
+    </div>
   )
 }
 
